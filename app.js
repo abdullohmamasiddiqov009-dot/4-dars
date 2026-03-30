@@ -73,3 +73,51 @@
 // console.log(kinogaKirish(13));
 // console.log(kinogaKirish(false));
 // ======================================
+// 51
+// function oshir1ga(arr) {
+//   return arr.map(x => x + 1);
+// }
+//  =========================================
+//  52
+// var ism = "Donyor";
+// var familiya = "Olimov";
+// var natija = `${ism} ${familiya}`;
+// // =====================================
+//  53
+// var holatiYaxshimi = true;
+// var holati = holatiYaxshimi ? "yaxshi" : "yaxshi emas";
+// // ====================================================
+//  54
+// function sozUzunligi(str) {
+//   return str.length % 2 === 0;
+// }
+// // ====================================================
+// // 55
+// function daraja(x, y) {
+//   return x ** y;
+// }
+// // ============================================
+// // 56
+// function songiElement(arr) {
+//   return arr[arr.length - 1];
+// }
+// // ===============================================
+// // 57
+// function kabisa(yil) {
+//   return (yil % 4 === 0 && yil % 100 !== 0) || (yil % 400 === 0);
+// }
+// // =======================================
+// // 58
+// function soz(word) {
+//   return word.slice(1);
+// }
+// // ==============================================
+// // 59
+// function teskariBool(bool) {
+//   return !bool;
+// }
+// // ======================================================
+// // 60
+// function juftMiToqmi(son) {
+//   return son % 2 === 0 ? "juft" : "toq";
+// }
