@@ -121,3 +121,32 @@
 // function juftMiToqmi(son) {
 //   return son % 2 === 0 ? "juft" : "toq";
 // }
+// 61
+// function qutilar(n) {
+//   return n * n;
+// }
+// // =============================================
+// // 62
+// function arrayToString(arr) {
+//   return arr.join("");
+// }
+// ===================================================
+// / 63
+// function birlash(arr1, arr2) {
+//   return arr1.concat(arr2);
+// }
+// =========================================================
+// // 64
+// function topIndex(arr, str) {
+//   return arr.indexOf(str);
+// }
+// ======================================================
+// // 65
+// function arrElement(arr, index) {
+//   return arr[Math.floor(index)];
+// }
+// =======================================================
+// // 66
+// function namuna(arr) {
+//   return arr.reduce((a, b) => a + b, 0);
+// }
